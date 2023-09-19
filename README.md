@@ -31,7 +31,7 @@ Os números coletados nos atrativos fornecerão informações importantes sobre 
 
 Análise de Dados: Andrei Santos | Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia. 
 
-Fonte de dados: Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia | Secretário de Cultura e Turismo
+Fonte de dados: Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia | Secretária de Cultura e Turismo
 
 Andrei Camilo dos Santos
 https://www.linkedin.com/in/andrei0118-santos
