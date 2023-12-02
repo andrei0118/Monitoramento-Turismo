@@ -1,6 +1,6 @@
-# Monitoramento do Turismo eem Ouro Preto - MG
+## Monitoramento do Turismo eem Ouro Preto - MG
 
-## Licença  
+### Licença  
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/andrei0118/gn-vendas/blob/master/LICENSE)
 
@@ -29,11 +29,11 @@ Os números coletados nos atrativos fornecerão informações importantes sobre 
 
 ## Autor
 
-Análise de Dados: Andrei Santos | Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia. 
+- Análise de Dados: Andrei Santos | Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia. 
 
 Fonte de dados: Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia | Secretária de Cultura e Turismo
 
-Andrei Camilo dos Santos
-https://www.linkedin.com/in/andrei0118-santos
+- Andrei Camilo dos Santos
+- https://www.linkedin.com/in/andrei0118-santos
 
 
